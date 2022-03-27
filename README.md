@@ -61,3 +61,9 @@ systolic1:
         }
     }
 ```
+# Build flow
+###### You can refer to the file . The only difference is 3.2.2., just give "binary_container_1.xclbin" this argument.
+[2021.2-Workbook-Lab3_new.pdf](https://github.com/kuanpei/Lab_B_Systolic_array/files/8357115/2021.2-Workbook-Lab3_new.pdf)
+
+# Result
+![image](https://user-images.githubusercontent.com/52789589/160271117-52c01709-ddc7-4cd1-a9a3-5180f6aba8c0.png)
